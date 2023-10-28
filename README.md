@@ -2,28 +2,52 @@
 
 ## Descrição do Projeto
 
-Macth in Vaga é um projeto que visa axuliar na otimização do tempo e qualidade dos processos seletivos, que têm por objetivo central facilitar o dia a dia de quemn trabalhar com seleção e recrutamento.
+O Match in Vaga é um projeto que visa otimizar o processo de seleção de candidatos, facilitando o gerenciamento e a análise de suas competências durante as diferentes etapas do processo seletivo. A aplicação permite a atribuição de notas para entrevistas, testes práticos, teóricos e avaliações de soft skills, facilitando a seleção dos candidatos mais qualificados para a vaga.
 
-A aplicação consiste em uma pesquisa de competências dos candidatos durante a entrevista, testes práticos, teóricos e de soft skills, onde são atribuidas notas de corte e os dados dos candidatos são coletados pelo programa e depois retorna a relação entre aderentes e não aderentes à vaga, que também apresenta um ranking sobre os melhores colocados na entrevista (ranking baseado aos aderentes).
+
+## Funcionalidades
+
+ - Coleta e armazenamento de dados de candidatos, incluindo suas notas em diferentes etapas do processo seletivo.
+ 
+ - Verificação da aderência dos candidatos de acordo com critérios estabelecidos de notas de corte para cada etapa.
+ 
+ - Geração de um ranking dos candidatos com base nas médias obtidas nas diferentes etapas.
+
 
 ## Tecnologia utilizada (Back End)
+
 - Python (Visual Code)
 
-## Back end
-Pré-requisitos: Python 3.10.11
+
+## Instruções para instalação de uso
+
+Para clonar e executar este projeto, siga os passos abaixo:
 
 ```bash
-# clonar repositório
+# Clonar o repositório
 git clone https://github.com/edersonmcm/match-in-vaga.git
 
-# entrar na pasta do projeto back end
+# Acessar a pasta do projeto
 cd match-in-vaga
 
-# executar o projeto
+# Executar o projeto
 python main.py
 ```
 
-# Autor
+Certifique-se de ter o Python 3.10.11 ou superior instalado em seu sistema.
+
+
+## Como Contribuir
+
+Se você deseja contribuir para o projeto, fique à vontade para abrir uma pull request. Ficaremos felizes em analisar suas contribuições.
+
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE.md para mais detalhes.
+
+
+## Autor
 
 Ederson Macedo de Carvalho Moraes
 
