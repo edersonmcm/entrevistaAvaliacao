@@ -2,8 +2,6 @@
 
 ## Descrição do Projeto
 
-https://wmazoni-sds1.netlify.app
-
 Macth in Vaga é um projeto que visa axuliar na otimização do tempo e qualidade dos processos seletivos, que têm por objetivo central facilitar o dia a dia de quemn trabalhar com seleção e recrutamento.
 
 A aplicação consiste em uma pesquisa de competências dos candidatos durante a entrevista, testes práticos, teóricos e de soft skills, onde são atribuidas notas de corte e os dados dos candidatos são coletados pelo programa e depois retorna a relação entre aderentes e não aderentes à vaga, que também apresenta um ranking sobre os melhores colocados na entrevista (ranking baseado aos aderentes).
